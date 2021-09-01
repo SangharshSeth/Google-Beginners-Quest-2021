@@ -22,5 +22,3 @@ const checkPassword = () => {
 }
 
 checkPassword()
-
-//Ans:- CTF{IJustHopeThisIsNotOnShodan}
